@@ -1,5 +1,7 @@
 > [!IMPORTANT]
-> **This project is moved to its own org [here](https://github.com/luna-hq/luna/)**
+> **This project is now on its own org at (https://github.com/luna-hq/luna/).**
+
+---
 
 [![main](https://github.com/flowerinthenight/luna/actions/workflows/main.yml/badge.svg)](https://github.com/flowerinthenight/luna/actions/workflows/main.yml)
 
