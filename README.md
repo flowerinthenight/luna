@@ -1,8 +1,5 @@
-> [!CAUTION]
-> **Alpha-level software.** Development is actively ongoing. API will most likely change.
-
-> [!NOTE]
-> At the moment, the current focus is to develop the SQL driver for Go [here](https://github.com/flowerinthenight/luna-go/).
+> [!IMPORTANT]
+> **This project is moved to its own org [here](https://github.com/luna-hq/luna/)**
 
 [![main](https://github.com/flowerinthenight/luna/actions/workflows/main.yml/badge.svg)](https://github.com/flowerinthenight/luna/actions/workflows/main.yml)
 
